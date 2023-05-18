@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xannythepleb!
-- 👀 I’m interested in Bitcoin, netsec, ML.
+- 👀 I’m interested in Bitcoin, privacy, encryption, infosec, netsec, ML.
 - 🌱 I’m currently learning Go and pentesting.
 - 💞️ If the repo is public it's open to PRs!
 - 📫 How to reach me: xanny@nostrplebs.com (paste into your favourite Nostr client)
