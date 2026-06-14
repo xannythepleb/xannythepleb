@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xannythepleb!
-- 👀 I’m interested in Bitcoin, privacy, encryption, infosec, netsec, ML.
-- 🌱 I’m currently learning Go and pentesting.
+- 👀 I’m interested in Bitcoin, Nostr, privacy, cryptography, cybersecurity.
+- 🌱 I’m currently learning about how Nostr works and the untapped potential it has.
 - 💞️ If the repo is public it's open to PRs!
 - 📫 How to reach me: xanny@nostrplebs.com (paste into your favourite Nostr client)
 - 🔒 [My Git PGP key](https://gist.github.com/xannythepleb/861701a38646a5caf5f0e7ae602b7a38)
